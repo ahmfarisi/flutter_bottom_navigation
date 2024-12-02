@@ -1,4 +1,4 @@
-import 'package:wisata_candi/models/candi.dart';
+import 'package:flutter_bottom_navigation/models/candi.dart';
 
 var candiList = [
   Candi(
