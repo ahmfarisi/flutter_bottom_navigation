@@ -41,6 +41,27 @@ class DetailScreen extends StatelessWidget {
                     icon: const Icon(Icons.arrow_back)),
               )
             ],
+          ),
+          // ---------- INFO -----------
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 16),
+            child: Column(
+              children: [
+                // Nama Candi dan Tombol Favorit
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      varCandi.name,
+                      style: const TextStyle(
+                          fontSize: 20, fontWeight: FontWeight.bold),
+                    ),
+                    IconButton(
+                        onPressed: () {}, icon: const Icon(Icons.favorite))
+                  ],
+                )
+              ],
+            ),
           )
         ],
       ),
