@@ -1,4 +1,4 @@
-import 'package:flutter_bottom_navigation/models/candi.dart';
+import 'package:flutter_project_si5b/models/candi.dart';
 
 var candiList = [
   Candi(

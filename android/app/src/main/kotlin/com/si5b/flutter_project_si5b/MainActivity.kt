@@ -1,4 +1,4 @@
-package com.example.flutter_bottom_navigation
+package com.si5b.flutter_project_si5b
 
 import io.flutter.embedding.android.FlutterActivity
 

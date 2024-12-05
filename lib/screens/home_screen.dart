@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bottom_navigation/data/candi_data.dart';
-import 'package:flutter_bottom_navigation/models/candi.dart';
+import 'package:flutter_project_si5b/data/candi_data.dart';
+import 'package:flutter_project_si5b/models/candi.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

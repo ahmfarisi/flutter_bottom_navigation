@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bottom_navigation/screens/main_screen.dart';
+import 'package:flutter_project_si5b/screens/main_screen.dart';
 
 void main() {
   runApp(const MainApp());

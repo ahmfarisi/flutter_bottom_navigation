@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bottom_navigation/screens/favorite_screen.dart';
-import 'package:flutter_bottom_navigation/screens/home_screen.dart';
-import 'package:flutter_bottom_navigation/screens/profile_screen.dart';
-import 'package:flutter_bottom_navigation/screens/search_screen.dart';
+import 'package:flutter_project_si5b/screens/favorite_screen.dart';
+import 'package:flutter_project_si5b/screens/home_screen.dart';
+import 'package:flutter_project_si5b/screens/profile_screen.dart';
+import 'package:flutter_project_si5b/screens/search_screen.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
